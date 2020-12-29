@@ -1,6 +1,6 @@
 ### Hi!
 
-I’m currently working as a doctoral researcher on music visulization for data-driven music education.
+I’m currently working as a doctoral researcher on music visualization for data-driven music education.
 
 Main project: [musicvis-lib](https://github.com/fheyen/musicvis-lib)
 
